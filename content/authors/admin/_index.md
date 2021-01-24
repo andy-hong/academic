@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Andy Hong
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Utah
+  url: https://www.utah.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are health challenges linked to urban and transportation planning.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Healthy Mobility
+- Public Health
+- Active Transportation
+- Aging Population
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Urban Planning
+    institution: University of Southern California
+    year: 2016
+  - course: Master of Urban Planning / Master of Public Administration
+    institution: University of Washington
+    year: 2011
+  - course: BSc in Informatics / Geography (minor)
+    institution: University of Washington
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
